@@ -21,11 +21,11 @@ switch(house){
         alert("Factually incorrect.");
         break;
     case "Blue Lions":
-        alert("Indeed, you are correct.");
+        alert("Indeed, you've made the right choice'.");
         break;
     case "Golden Deer":
         alert("Fear the Deer!");
         break;
     default:
-        alert("Use caps.");
+        alert("I haven't heard of that one. (Use caps.)");
 }
