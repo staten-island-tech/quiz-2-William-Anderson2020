@@ -21,7 +21,7 @@ switch(house){
         alert("Factually incorrect.");
         break;
     case "Blue Lions":
-        alert("Indeed, you've made the right choice'.");
+        alert("Indeed, you've made the right choice.");
         break;
     case "Golden Deer":
         alert("Fear the Deer!");
